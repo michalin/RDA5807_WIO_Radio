@@ -261,8 +261,6 @@ void gui_show_rdsinfo(const char *fmt, ...)
     va_start(valist, fmt);
     char txtbuf[128];
     vsprintf(txtbuf, fmt, valist);
-    // lv_label_set_text(lab_rdstext, txtbuf);
     lv_textarea_set_text(tar_rdstext, txtbuf);
-    lv_textarea_set_text(tar_rdstext, "Radio Doctor Volt FM\nQueen - Radio Ga Ga ");
     va_end(valist);
 }
