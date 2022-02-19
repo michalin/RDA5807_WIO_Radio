@@ -1,5 +1,4 @@
-# RDA5807_Radio
-## FM radio receiver with RDA5807 and Seeed WIO-Terminal
+# FM radio receiver with RDA5807 and Seeed WIO-Terminal
 Stereo FM receiver with RDS/RBDS. Watch video for more details.
 
 
