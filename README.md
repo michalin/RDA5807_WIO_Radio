@@ -5,4 +5,4 @@ It's so easy to build a radio these days. You don't need to to solder complicate
 Watch the video for more details.
 
 
-[<img src="thumbnail.jpg" alt="Youtube thumbnail" width="640">](https://youtu.be/cmtmaMzo8uM)
+[<img src="thumbnail.jpg" alt="Youtube thumbnail" width="640">](https://youtu.be/ONZBhaCEMVM)
