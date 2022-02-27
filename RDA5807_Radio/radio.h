@@ -14,7 +14,7 @@
 #ifndef RADIO_H
 #define RADIO_H
 
-#include <arduino.h>
+#include <Arduino.h>
 #include <lvgl.h> //lv_arduino V3.0.1
 
 #define BGCOLOR     LV_COLOR_PURPLE //Window background
